@@ -24,7 +24,35 @@
 
 ###
 
-<p align="left">✨ Learning about computers since primary school<br>📚 Just graduate high school</p>
+````
+name: Shi Min Yeoh
+located_in: Penang, Malaysia
+current_job: Student
+company: not-employed
+
+education:
+  [
+    "Junior Full-stack Web Developer and Designer",
+    "Junior Python and Java Coder",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+  ]
+
+technical_background:
+  [
+    "Full Stack Developer"
+  ]
+  
+currently_learning: ["C, C++"]
+2024 Goals: ["Learn latest knowledge of tech."]
+hobbies: ["Music", "Novel","Comedy"]
+````
 
 ###
 
@@ -64,24 +92,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<h2 align="left">My stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shi-Min-Yeoh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shi-Min-Yeoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shi-Min-Yeoh&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shi-Min-Yeoh&radius=12&theme=tokyo-day&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
