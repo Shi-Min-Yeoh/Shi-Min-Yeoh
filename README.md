@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">hey there 👋</h2>
 
 ###
 
@@ -94,12 +94,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shi-Min-Yeoh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/Shi-Min-Yeoh/Shi-Min-Yeoh/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shi-Min-Yeoh/Shi-Min-Yeoh/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shi-Min-Yeoh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
