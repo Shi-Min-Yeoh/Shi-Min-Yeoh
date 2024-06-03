@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">hey there 👋</h2>
+<h3 align="center">hey there 👋</h3>
 
 ###
 
