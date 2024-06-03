@@ -55,9 +55,6 @@ hobbies: ["Music", "Novel","Comedy"]
 ###
 
 <div align="left">
- > Dorothy followed her through many of the beautiful rooms in her castle.
-
-![Tableau badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
