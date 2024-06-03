@@ -77,6 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shi-Min-Yeoh/Shi-Min-Yeoh/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shi-Min-Yeoh/Shi-Min-Yeoh/snake.yml" alt="Snake animation" />
 
 ###
