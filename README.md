@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![127620100](https://github.com/Shi-Min-Yeoh/Shi-Min-Yeoh/assets/127620100/5dc6ccc1-3d29-405b-8ab0-bdbfbf34643d)"
+  <img height="150" src="https://avatars.githubusercontent.com/u/127620100?v=4"
   />
 </div>
 
