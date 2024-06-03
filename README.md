@@ -55,6 +55,7 @@ hobbies: ["Music", "Novel","Comedy"]
 ###
 
 <div align="left">
+  <h3 align="left">* Languages and tools</h2>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="40" alt="tableau logo"  />
   <img width="12" />
 </div>
