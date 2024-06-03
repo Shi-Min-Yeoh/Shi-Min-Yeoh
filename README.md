@@ -12,7 +12,7 @@
   </a>
 </div>
 
-###
+***
 
 <h2 align="left">About me</h2>
 
@@ -48,7 +48,7 @@ currently_learning: ["C, C++"]
 hobbies: ["Music", "Novel","Comedy"]
 ````
 
-###
+***
 
 <h2 align="left">Languages and tools</h2>
 
