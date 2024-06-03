@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Shi-Min-Yeoh&txt=I%am%a%coding%enthusiast%from%Malaysia"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Shi-Min-Yeoh&txt=A%20coding%20enthusiast%20from%20Malaysia"></p>
 <h1 align="left">Welcome👋</h1>
 
 ###
