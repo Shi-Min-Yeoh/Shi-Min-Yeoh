@@ -1,13 +1,6 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Shi-Min-Yeoh&txt=A%20coding%20enthusiast%20from%20Malaysia"></p>
-<h1 align="left">Welcome👋</h1>
 
-###
-
-<p align="left">I am a coding enthusiast from Malaysia</p>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shi-min-yeoh-788b972bb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
